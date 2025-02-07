@@ -1,0 +1,51 @@
+/* Style for body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Style for header */
+header {
+    background-color: #ffb5ef;
+    color: white;
+    padding: 20px;
+}
+
+/* Style for navigation */
+nav {
+    background-color: #f5cdcd;
+    padding: 10px;
+}
+
+/* Style for main content */
+main {
+    background-color: #f4f4f4;
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Style for footer */
+footer {
+    background-color: #ffb5ef;
+    color: #555;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Style for list items */
+li {
+    display: inline-block;
+    width: 100px;
+}
+
+/* Style for h1 */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #555;
+}
+
+/* Style for paragraphs */
+p {
+    line-height: 1.5;
+}
